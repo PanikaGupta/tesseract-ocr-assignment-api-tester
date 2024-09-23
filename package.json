@@ -1,0 +1,22 @@
+{
+  "name": "tesseract-ocr-assignment-api-tester",
+  "version": "1.0.0",
+  "description": "Clone this repository:\r ```\r git clone https://github.com/AbhilakshSinghReen/tesseract-ocr-assignment-api-tester.git\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
+    "tesseract.js": "^5.1.1"
+  },
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3",
+    "supertest": "^7.0.0"
+  }
+}
